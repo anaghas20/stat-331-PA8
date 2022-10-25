@@ -2,6 +2,7 @@
 title: "Practice Activity 8"
 format: html
 editor: visual
+author: "Sara Goel, Jake McDonald, Anagha Sikha, Hannah Pawig"
 ---
 
 ## Quarto
