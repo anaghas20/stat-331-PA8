@@ -2,6 +2,7 @@
 title: "Practice Activity 8"
 format: html
 editor: visual
+author: "Sara, Jake, Anagha, Hannah"
 ---
 
 ## Quarto
